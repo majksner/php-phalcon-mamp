@@ -9,3 +9,9 @@ N/A
 
 ##Change Log:
 * 0.1 - Initial Release
+
+## Proof
+
+If everything is fine phpinfo(); should look like this.
+
+![ScreenShot](http://i.imgur.com/7o6rYct.png)
