@@ -8,10 +8,11 @@
 N/A
 
 ##Change Log:
+* 0.2 - Updated to phalcon 1.2.3
 * 0.1 - Initial Release
 
 ## Proof
 
 If everything is fine phpinfo(); should look like this.
 
-![ScreenShot](http://i.imgur.com/7o6rYct.png)
+![ScreenShot](http://i.imgur.com/jOmNZjg.png)
