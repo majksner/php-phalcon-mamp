@@ -1,7 +1,7 @@
 #Installation:
 
 1. **Copy** phalcon.so to /Applications/MAMP/bin/php/php5.5.3/lib/php/extensions/no-debug-non-zts-20121212/
-2. Add **extension="phalcon.so"** to the end of php.ini (Open MAMP click on File → Edit Template → PHP → PHP 5.4.10 php.ini)
+2. Add **extension="phalcon.so"** to the end of php.ini (Open MAMP click on File → Edit Template → PHP → PHP 5.5.3 php.ini)
 3. **Restart** MAMP.
 
 >It's only compiled against the PHP 5.5.3 if you need it for PHP 5.4.x let me know.
