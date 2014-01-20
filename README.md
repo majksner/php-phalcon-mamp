@@ -11,6 +11,7 @@
 N/A
 
 ##Change Log:
+* 0.4 - Updated to Phalcon 1.2.5
 * 0.3 - Updated to Phalcon 1.2.4
 * 0.2 - Updated to phalcon 1.2.3
 * 0.1 - Initial Release
