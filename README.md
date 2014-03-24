@@ -6,6 +6,7 @@
 
 >It's only compiled against the PHP 5.5.10 and PHP 5.4.25 (MAMP 3.0.x).
 
+Older [releases](https://github.com/majksner/php-phalcon-mamp/releases)
 
 ##Dependencies:
 N/A
