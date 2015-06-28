@@ -12,6 +12,7 @@ Older [releases](https://github.com/majksner/php-phalcon-mamp/releases)
 N/A
 
 ##Change Log:
+* 0.13 - Phalcon 2.0.3 build for new MAMP 3.3 and PHP 5.6.10
 * 0.12 - Phalcon 2.0.1 build for new MAMP 3.2.1 and PHP 5.6.7
 * 0.11 - Phalcon 1.3.4 build for new MAMP 3.0.7.3, PHP 5.5.18 and PHP 5.4.34
 * 0.10 - Phalcon 1.3.3 build for new MAMP 3.0.7.3, PHP 5.5.18 and PHP 5.4.34
@@ -29,4 +30,8 @@ N/A
 
 If everything is fine `phpinfo();` should look like this.
 
+* Phalcon 2.0.3 + MAMP 3.3 + PHP 5.6.10
+![ScreenShot](http://i.imgur.com/Ku58HJa.jpg)
+
+* Phalcon 2.0.1 + MAMP 3.2.1 + PHP 5.6.7
 ![ScreenShot](http://i.imgur.com/hJ8MDhh.png)
