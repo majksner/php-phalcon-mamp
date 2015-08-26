@@ -4,14 +4,13 @@
 2. Add `extension=phalcon.so` to the end of `php.ini` (Open MAMP click on File → Edit Template → PHP → PHP 5.5.x php.ini)
 3. **Restart** MAMP.
 
->It's only compiled against the PHP 5.5.18 and PHP 5.4.34 (MAMP 3.0.x).
-
 Older [releases](https://github.com/majksner/php-phalcon-mamp/releases)
 
 ##Dependencies:
 N/A
 
 ##Change Log:
+* 0.14 - Phalcon 2.0.7 build for new MAMP 3.4 and PHP 5.6.10
 * 0.13 - Phalcon 2.0.3 build for new MAMP 3.3 and PHP 5.6.10
 * 0.12 - Phalcon 2.0.1 build for new MAMP 3.2.1 and PHP 5.6.7
 * 0.11 - Phalcon 1.3.4 build for new MAMP 3.0.7.3, PHP 5.5.18 and PHP 5.4.34
@@ -29,6 +28,9 @@ N/A
 ## Proof
 
 If everything is fine `phpinfo();` should look like this.
+
+* Phalcon 2.0.7 + MAMP 3.4 + PHP 5.6.10
+![ScreenShot](http://i.imgur.com/q7XLmUM.jpg)
 
 * Phalcon 2.0.3 + MAMP 3.3 + PHP 5.6.10
 ![ScreenShot](http://i.imgur.com/Ku58HJa.jpg)
