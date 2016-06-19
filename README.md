@@ -10,6 +10,7 @@ Older [releases](https://github.com/majksner/php-phalcon-mamp/releases)
 N/A
 
 ##Change Log:
+* 0.16 - Phalcon 2.0.13 build for MAMP 3.5 and PHP 5.6.10 and PHP 5.5.26
 * 0.15 - Phalcon 2.0.10 build for new MAMP 3.5 and PHP 5.6.10
 * 0.14 - Phalcon 2.0.7 build for new MAMP 3.4 and PHP 5.6.10
 * 0.13 - Phalcon 2.0.3 build for new MAMP 3.3 and PHP 5.6.10
