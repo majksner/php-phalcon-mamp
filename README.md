@@ -1,3 +1,7 @@
+#Donate
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SUGJXW97ALEZY)
+
 #Installation:
 
 1. **Copy** `phalcon.so` to `/Applications/MAMP/bin/php/phpx.x.x/lib/php/extensions/no-debug-non-zts-201x1212`
