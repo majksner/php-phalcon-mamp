@@ -39,6 +39,9 @@ N/A
 
 If everything is fine `phpinfo();` should look like this.
 
+* Phalcon 3.1.2 + MAMP 4.1.1 + PHP 7.1.3
+![ScreenShot](http://i.imgur.com/EvpKUVk.png)
+
 * Phalcon 2.0.7 + MAMP 3.4 + PHP 5.6.10
 ![ScreenShot](http://i.imgur.com/q7XLmUM.jpg)
 
